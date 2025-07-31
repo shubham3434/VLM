@@ -18,12 +18,22 @@ A custom module `VisionTextModel` combines these three, where image features are
 
 ## 🧪 Training Workflow
 
-### 📍 Pretraining Stage (Not in this notebook)
-- Trained the projection layer to map CLIP image embeddings to token embedding space.
-- Dataset: **Stanford Image Captioning Dataset**
-- Loss: Cross-entropy over predicted captions
+### 📍 Pretraining Stage 
+- Trained a projection layer to map CLIP image embeddings into the GPT-2 token embedding space.
+- Frozen components: CLIP Vision Encoder (`openai/clip-vit-base-patch32`) and GPT-2 Language Model.
+- Dataset: **Stanford Image Paragraph Captioning Dataset**
+- Input format: Prompted captions in the form  
+  `User: <instruction>\nAssistant: <caption>`
+- Projection: Linear + LayerNorm mapping to 32 GPT-equivalent tokens.
+- Loss: Cross-entropy over caption tokens (image tokens ignored).
+- Training Setup:
+  - Batch Size: 8
+  - Epochs: 3
+  - Gradient Accumulation: 4 steps
+  - Optimizer: AdamW with learning rate `1e-4`
+  - Precision: Float32
 
-### 📍 Fine-tuning Stage (this notebook)
+### 📍 Fine-tuning Stage
 - Dataset: **EarthVQA** CSV with image paths, questions, and answers
 - Batch size: `8`
 - Epochs: `5`
