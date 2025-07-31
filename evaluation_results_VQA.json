@@ -1,0 +1,605 @@
+{
+  "total_samples": 100,
+  "results": [
+    {
+      "image_name": "2748.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, and agricultural areasAbout the road types around the residential areaWelcome to the land use types in this scene"
+    },
+    {
+      "image_name": "3942.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is an important traffic area with several viaductsISTANBUL, Syria - The road materials around the village are unsurfaced, and cement roads"
+    },
+    {
+      "image_name": "4065.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential areas",
+      "generated_answer": "There are cement roads"
+    },
+    {
+      "image_name": "2992.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, and agricultural areas"
+    },
+    {
+      "image_name": "4009.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are wide lanes The road materials are unsurfaced roads, cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "3764.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are park, and agricultural areas",
+      "generated_answer": "There are residential, woodland, and agricultural areas"
+    },
+    {
+      "image_name": "3166.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water nor agricultural land",
+      "generated_answer": "There are clean waters near the agriculture landFrom Wikipedia, the road materials around the village"
+    },
+    {
+      "image_name": "3741.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is not an important traffic areaFront Page Torrents are not cleaned upIntroduction\n\nWelcome to the land use types in this scene"
+    },
+    {
+      "image_name": "2993.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are woodland, and agricultural areas"
+    },
+    {
+      "image_name": "2934.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads",
+      "generated_answer": "There are unsurfaced roads, and asphalt roads"
+    },
+    {
+      "image_name": "3529.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, and woodland areas"
+    },
+    {
+      "image_name": "3318.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are no needs"
+    },
+    {
+      "image_name": "2642.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "There are wide lanesEngineers are no land use types"
+    },
+    {
+      "image_name": "4079.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, park, and agricultural areas",
+      "generated_answer": "There are residential, woodland, and agricultural areas"
+    },
+    {
+      "image_name": "3493.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are cement roads, and asphalt roads",
+      "generated_answer": "There are cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "3203.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are no needsWe are not aware of the road materials around the village"
+    },
+    {
+      "image_name": "3971.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are park, and agricultural areas",
+      "generated_answer": "There are woodland, and agricultural areas"
+    },
+    {
+      "image_name": "3455.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are agricultural areasThere are residential, woodland, and agricultural areas"
+    },
+    {
+      "image_name": "3054.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved, and waters need to be cleaned up",
+      "generated_answer": "There are residential, and agricultural areas"
+    },
+    {
+      "image_name": "2833.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3111.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are cement roads",
+      "generated_answer": "There are cement roadsHumans are not land use typesPlease enable Javascript to use the comprehensive traffic situations in this scene"
+    },
+    {
+      "image_name": "2788.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads, and cement roads",
+      "generated_answer": "There are unsurfaced roadsOur road types are wide, and cement roads"
+    },
+    {
+      "image_name": "3834.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is not an important traffic areaIn this scene, we are not commentingIntroduction"
+    },
+    {
+      "image_name": "2598.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are polluted waters near the agriculture land",
+      "generated_answer": "There are cement roads"
+    },
+    {
+      "image_name": "3084.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3367.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water area\nGreetings, and thank you for your attention"
+    },
+    {
+      "image_name": "3775.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, and park areas",
+      "generated_answer": "There are residential, commercial, park, and agricultural areasThe greening needs to be supplementedA comprehensive traffic situations in this scene are not an important traffic area"
+    },
+    {
+      "image_name": "3072.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are residential areas"
+    },
+    {
+      "image_name": "2635.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved, and waters need to be cleaned up",
+      "generated_answer": "There are no needsTo be uploaded\u00a9 2018 Adobe Systems"
+    },
+    {
+      "image_name": "3269.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water nor agricultural landOverview\n\nThis is not an important traffic area"
+    },
+    {
+      "image_name": "2538.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are unsurfaced roads"
+    },
+    {
+      "image_name": "2670.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved, and waters need to be cleaned up",
+      "generated_answer": "There are no needsJust a few wordsContact: The road materials need to be cleaned up"
+    },
+    {
+      "image_name": "3507.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "The roads need to be improved// Copyright (C) 2018, The Linux Foundation"
+    },
+    {
+      "image_name": "3757.png",
+      "question": "What are the needs for the renovation of residents?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "There are no needsIt is not an important traffic area"
+    },
+    {
+      "image_name": "3082.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, and agricultural areas",
+      "generated_answer": "There are agricultural areasYou are not logged in"
+    },
+    {
+      "image_name": "2847.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water areaThe road materials are cement roads"
+    },
+    {
+      "image_name": "3062.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, commercial, park, and agricultural areasThis is not an important traffic areaSelect a road materials"
+    },
+    {
+      "image_name": "3553.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is not an important traffic area"
+    },
+    {
+      "image_name": "3280.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are polluted waters near the agriculture land",
+      "generated_answer": "There are no water nor agricultural landSuperintendent: There are no water nor agricultural land"
+    },
+    {
+      "image_name": "3169.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are agricultural areasIn this scene, the water area around the agricultural land is polluted"
+    },
+    {
+      "image_name": "3644.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is not an important traffic area"
+    },
+    {
+      "image_name": "2777.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are wide lanes, and railways"
+    },
+    {
+      "image_name": "4129.png",
+      "question": "What are the needs for the renovation of residents?",
+      "ground_truth": "The greening needs to be supplemented and urban villages need attention",
+      "generated_answer": "There are no needsThere are no needs: The waters need to be cleaned up"
+    },
+    {
+      "image_name": "2701.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are clean waters near the agriculture landWelcome to the land use types in this sceneThere are residential, and agricultural areas"
+    },
+    {
+      "image_name": "3412.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "No obvious land use types",
+      "generated_answer": "There are woodland, and agricultural areasBoulder, and agricultural areas need attention"
+    },
+    {
+      "image_name": "3428.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water area"
+    },
+    {
+      "image_name": "3173.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The waters need to be cleaned up",
+      "generated_answer": "There are no needsTurtle, and agricultural areasPublication date: 1 October, 1 October, and 1 OctoberHere are no needs"
+    },
+    {
+      "image_name": "2676.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are cement roadsTrivia: There are no roadsAll roads need to be improved"
+    },
+    {
+      "image_name": "3756.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are one-way lanes",
+      "generated_answer": "There are wide lanesShare ThisAbout the land use types in this scene"
+    },
+    {
+      "image_name": "3559.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsThe road materials are unsurfaced roads, cement roads, and asphalt roadsDownloads"
+    },
+    {
+      "image_name": "2805.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The waters need to be cleaned up",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "2964.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are no roadsRoad materials are unsurfaced roads, cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "2565.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are no needsRemember, and you are not allowed to use the roadsWelcome to the 1:00:00:00 AM | INFORoad materials are unsurfaced roads"
+    },
+    {
+      "image_name": "3086.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water nor agricultural land"
+    },
+    {
+      "image_name": "3568.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is not an important traffic area"
+    },
+    {
+      "image_name": "3947.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsStill loading...\n\nA browser error has occurredThis is not an important traffic area"
+    },
+    {
+      "image_name": "3952.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are wide lanes",
+      "generated_answer": "There are no roadsHere are no roadsPolice are not commenting"
+    },
+    {
+      "image_name": "2770.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are polluted waters near the agriculture landMore than 1,000 residents are in the water areaMany of the water situations around the agricultural land are polluted waters near the agriculture land"
+    },
+    {
+      "image_name": "3766.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are one-way lanes",
+      "generated_answer": "There are no needs"
+    },
+    {
+      "image_name": "2947.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "The roads need to be improved, and waters need to be cleaned up"
+    },
+    {
+      "image_name": "3881.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "There are wide lanesWe've switched to clean waters near the agriculture land"
+    },
+    {
+      "image_name": "3409.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads",
+      "generated_answer": "There are cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "3809.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, commercial, park, and agricultural areas",
+      "generated_answer": "There are residential, and agricultural areasWe are not able to use an important road materials nor are they polluted waters near the agriculture land"
+    },
+    {
+      "image_name": "3238.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water area",
+      "generated_answer": "There are no water nor agricultural land"
+    },
+    {
+      "image_name": "2579.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads",
+      "generated_answer": "There are unsurfaced roads, cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "4130.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3811.png",
+      "question": "What are the needs for the renovation of residents?",
+      "ground_truth": "The greening needs to be supplemented and urban villages need attention",
+      "generated_answer": "There are no needsThree villages need attention There are no needs"
+    },
+    {
+      "image_name": "3831.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, commercial, and park areas",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3626.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsWhen you are not on the road, you are no longer in the road"
+    },
+    {
+      "image_name": "4017.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, commercial, educational, and park areas",
+      "generated_answer": "There are residential, and commercial areasInformation: There are residential, and park areasShare this: There are no water nor agricultural landAll roads need to be improved"
+    },
+    {
+      "image_name": "3870.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsTrivia: This is an important traffic area with several viaducts"
+    },
+    {
+      "image_name": "3227.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, woodland, and agricultural areasConstruction of villages"
+    },
+    {
+      "image_name": "3655.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsThis is not an important traffic area"
+    },
+    {
+      "image_name": "2522.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, and agricultural areas",
+      "generated_answer": "There are residential, and agricultural areas"
+    },
+    {
+      "image_name": "4095.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are wide lanes",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3304.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads, cement roads, and asphalt roads",
+      "generated_answer": "There are unsurfaced roads, cement roads, and asphalt roads"
+    },
+    {
+      "image_name": "2837.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads, and cement roads",
+      "generated_answer": "There are cement roadsResidents are no obvious land use types"
+    },
+    {
+      "image_name": "3712.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are one-way lanes, and wide lanes",
+      "generated_answer": "There are no roadsLooking for the land use types in this scene"
+    },
+    {
+      "image_name": "2863.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are no needs: The roads need to be improved"
+    },
+    {
+      "image_name": "2757.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads",
+      "generated_answer": "There are cement roads"
+    },
+    {
+      "image_name": "3185.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are unsurfaced roads, cement roads, and asphalt roads",
+      "generated_answer": "There are residential, and commercial areas"
+    },
+    {
+      "image_name": "3391.png",
+      "question": "What are the road materials around the village?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are cement roads, and asphalt roadsArmstrong: There are no roadsThe road needs to be improved, and waters need to be cleaned up"
+    },
+    {
+      "image_name": "3377.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential areas",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3060.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are woodland, and agricultural areasThere are residential, and agricultural areasIntroduction: The road materials are cement roads"
+    },
+    {
+      "image_name": "3897.png",
+      "question": "What are the needs for the renovation of residents?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "There are no needsRecently, the road types around the residential area have wide lanes The road materials need to be cleaned upGAUGE: There are no needs"
+    },
+    {
+      "image_name": "3020.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "There are no needs"
+    },
+    {
+      "image_name": "3937.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are residential, woodland, and agricultural areasIf you are an agricultural land use, and agricultural areas"
+    },
+    {
+      "image_name": "3248.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "3242.png",
+      "question": "What are the needs for the renovation of villages?",
+      "ground_truth": "The roads need to be improved",
+      "generated_answer": "There are no needs: The road materials are no need"
+    },
+    {
+      "image_name": "4004.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are wide lanes"
+    },
+    {
+      "image_name": "3979.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is not an important traffic area",
+      "generated_answer": "This is an important traffic area with several viaductsDevelopment: There are no needs"
+    },
+    {
+      "image_name": "3424.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are agricultural areas",
+      "generated_answer": "There are no roads"
+    },
+    {
+      "image_name": "4170.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are no roadsWelcome to the land use types in this scene"
+    },
+    {
+      "image_name": "4016.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are no roads",
+      "generated_answer": "There are wide lanes"
+    },
+    {
+      "image_name": "2794.png",
+      "question": "What are the water situations around the agricultural land?",
+      "ground_truth": "There are no water nor agricultural land",
+      "generated_answer": "There are no water nor agricultural landIf you are not in this scene, please do not be an important traffic areaRoad materials are no roads"
+    },
+    {
+      "image_name": "3000.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, and agricultural areas",
+      "generated_answer": "There are residential, and commercial areasWe are not able to provide an area"
+    },
+    {
+      "image_name": "4095.png",
+      "question": "What are the needs for the renovation of residents?",
+      "ground_truth": "There are no needs",
+      "generated_answer": "The greening needs to be supplemented The land use types in this scene are residential, and woodland areas"
+    },
+    {
+      "image_name": "4138.png",
+      "question": "What are the road types around the residential area?",
+      "ground_truth": "There are one-way lanes",
+      "generated_answer": "There are no roadsPhotographs:"
+    },
+    {
+      "image_name": "3687.png",
+      "question": "What are the land use types in this scene?",
+      "ground_truth": "There are residential, park, and agricultural areas",
+      "generated_answer": "There are woodland, and agricultural areasNearly 1,200 villages need attention"
+    },
+    {
+      "image_name": "3919.png",
+      "question": "What are the comprehensive traffic situations in this scene?",
+      "ground_truth": "This is an important traffic area with 1 intersection",
+      "generated_answer": "This is not an important traffic area"
+    }
+  ]
+}
