@@ -43,8 +43,3 @@ A custom module `VisionTextModel` combines these three, where image features are
 - Clip Gradients: Yes (max norm = `1.0`)
 - Multi-GPU: `torch.nn.DataParallel` used if available
 
-```python
-loss = outputs.loss.mean()  # averaged over GPUs
-loss.backward()
-torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-optimizer.step()
